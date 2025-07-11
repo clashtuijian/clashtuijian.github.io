@@ -1,4 +1,4 @@
-# Clash推荐 - 7月5日22.9M/S|免费Clash/Shadowrocket/V2ray/SSR节点推荐，VPN节点购买推荐  更新时间 2025-07-05 09:50:16
+# Clash推荐 - 7月11日21.6M/S|免费V2ray/SSR/Shadowrocket/Clash节点推荐，VPN节点购买推荐  更新时间 2025-07-11 08:20:04
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashtuijian.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://clashtuijian.github.io/uploads/2025/07/0-20250705.yaml
-- https://clashtuijian.github.io/uploads/2025/07/1-20250705.yaml
-- https://clashtuijian.github.io/uploads/2025/07/2-20250705.yaml
-- https://clashtuijian.github.io/uploads/2025/07/3-20250705.yaml
-- https://clashtuijian.github.io/uploads/2025/07/4-20250705.yaml
+- https://clashtuijian.github.io/uploads/2025/07/0-20250711.yaml
+- https://clashtuijian.github.io/uploads/2025/07/1-20250711.yaml
+- https://clashtuijian.github.io/uploads/2025/07/2-20250711.yaml
+- https://clashtuijian.github.io/uploads/2025/07/3-20250711.yaml
+- https://clashtuijian.github.io/uploads/2025/07/4-20250711.yaml
 
 ### V2ray订阅链接
 
-- https://clashtuijian.github.io/uploads/2025/07/0-20250705.txt
-- https://clashtuijian.github.io/uploads/2025/07/1-20250705.txt
-- https://clashtuijian.github.io/uploads/2025/07/2-20250705.txt
-- https://clashtuijian.github.io/uploads/2025/07/3-20250705.txt
-- https://clashtuijian.github.io/uploads/2025/07/4-20250705.txt
+- https://clashtuijian.github.io/uploads/2025/07/0-20250711.txt
+- https://clashtuijian.github.io/uploads/2025/07/1-20250711.txt
+- https://clashtuijian.github.io/uploads/2025/07/2-20250711.txt
+- https://clashtuijian.github.io/uploads/2025/07/3-20250711.txt
+- https://clashtuijian.github.io/uploads/2025/07/4-20250711.txt
 
 ### Sing-box订阅链接
 
-- https://clashtuijian.github.io/uploads/2025/07/20250705.json
+- https://clashtuijian.github.io/uploads/2025/07/20250711.json
 
 ## 更多clash节点订阅 ：
 
